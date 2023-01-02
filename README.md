@@ -8,4 +8,4 @@ An installer script written in python to try to install all kali linux tools in 
 - port (for installing packages that are unavailable in brew)
 
 ## Usage
-python3 kali-tools-installer.py
+`python3 kali-tools-installer.py`
