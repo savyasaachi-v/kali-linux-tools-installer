@@ -1,4 +1,4 @@
-# kali-tools-installer
+# kali-linux-tools-installer
 An installer script written in python to try to install all kali linux tools in an OSX operating system using brew and macports
 
 ## Requirements
